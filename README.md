@@ -1,4 +1,7 @@
-# Pranjal Rajput
+# FiraDev Web Extension
 
+This Repo contains the source code of upcoming FiraDev website.
 
-Config files for my GitHub profile.
+Please Contribute To This.
+
+Happy Coding 😇
