@@ -8,6 +8,3 @@ If you spot some other issues feel free to solve it.
 
 Do create issue before sending pull requests.
 
-Please Contribute To This.
-
-Happy Coding 😇
