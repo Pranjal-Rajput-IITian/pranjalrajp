@@ -8,3 +8,4 @@ If you spot some other issues feel free to solve it.
 
 Do create issue before sending pull requests.
 
+When added pull please change it.
